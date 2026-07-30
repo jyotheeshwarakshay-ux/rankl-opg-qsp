@@ -153,8 +153,6 @@ Each script is self-contained and writes its own plot.
   The PK block in `stage3_pk_coupling.R` is annotated with this provenance.
 
 ## Related work
-
-- **denosumab-tmdd-qss** — the denosumab TMDD / QSS parameter-recovery and
-  identifiability study whose PK model feeds Stage 3 here.
-- **tmdd-approximations** — TMDD model with QSS and Michaelis–Menten approximations.
-- **Theophylline-popPK** — population-PK reproduction.
+- **[denosumab-tmdd-qss](https://github.com/jyotheeshwarakshay-ux/denosumab-tmdd-qss)** — the denosumab TMDD / QSS parameter-recovery and identifiability study whose PK model feeds Stage 3 here.
+- **[tmdd-approximations](https://github.com/jyotheeshwarakshay-ux/tmdd-approximations)** — TMDD model with QSS and Michaelis–Menten approximations.
+- **[Theophylline-popPK](https://github.com/jyotheeshwarakshay-ux/Theophylline-popPK)** — population-PK reproduction.
