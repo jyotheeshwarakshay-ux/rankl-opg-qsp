@@ -156,4 +156,4 @@ Each script is self-contained and writes its own plot.
 - **[denosumab-tmdd-qss](https://github.com/jyotheeshwarakshay-ux/denosumab-tmdd-qss)** — the denosumab TMDD / QSS parameter-recovery and identifiability study whose PK model feeds Stage 3 here.
 - **[tmdd-approximations](https://github.com/jyotheeshwarakshay-ux/tmdd-approximations)** — TMDD model with QSS and Michaelis–Menten approximations.
 - **[Theophylline-popPK](https://github.com/jyotheeshwarakshay-ux/Theophylline-popPK)** — population-PK reproduction.
-- - [denosumab-mpbpk](https://github.com/jyotheeshwarakshay-ux/denosumab-mpbpk) — mechanistic 15-tissue PBPK model predicting denosumab's bone-tissue exposure; its bone-compartment output is the natural candidate to replace this repo's plasma-driven RANKL-blockade placeholder.
+- [denosumab-mpbpk](https://github.com/jyotheeshwarakshay-ux/denosumab-mpbpk) — mechanistic 15-tissue PBPK model predicting denosumab's bone-tissue exposure; its bone-compartment output is the natural candidate to replace this repo's plasma-driven RANKL-blockade placeholder.
